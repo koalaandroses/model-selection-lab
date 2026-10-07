@@ -8,8 +8,6 @@ Compare all 15 nonempty subsets of four predictors using AIC, AICc and BIC, then
 
 Inspired by my undergraduate model-selection study at McGill, where I compared predictor subsets and bootstrap stability in R. This repository is a new Python demonstration on synthetic data; it does not reproduce the original five case studies or claim their results.
 
-This portfolio starter was prepared with AI assistance. I will review, run and adapt the code before presenting it as my work. It is a personal learning project, not production software or evidence of an employer deployment.
-
 ## Business or research question
 
 Compare all 15 nonempty subsets of four predictors using AIC, AICc and BIC, then test how often models win under 1,000 bootstrap resamples. The goal is to make assumptions and uncertainty visible rather than only produce a chart.
