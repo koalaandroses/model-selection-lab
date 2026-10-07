@@ -6,7 +6,7 @@ Compare all 15 nonempty subsets of four predictors using AIC, AICc and BIC, then
 
 ## Project provenance
 
-Inspired by my undergraduate model-selection study at McGill, where I compared predictor subsets and bootstrap stability in R. This repository is a new Python demonstration on synthetic data; it does not reproduce the original five case studies or claim their results.
+Inspired by my undergraduate model-selection study at McGill, where I compared predictor subsets and bootstrap stability in R. This repository is a new Python demonstration on synthetic data。
 
 ## Business or research question
 
