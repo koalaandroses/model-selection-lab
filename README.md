@@ -54,17 +54,4 @@ The included tests check core numerical or data-quality invariants. GitHub Actio
 
 This is one simulation seed, not proof that one criterion is always best. Bootstrap rows assume independent observations. Linear/Gaussian assumptions, collinearity and sample size influence selection. Nonempty subsets exclude the intercept-only model. A stronger extension would add additional seeds, a null model and a time-series resampling scheme.
 
-## What I should be able to explain
-
-- What data was generated and why it is appropriate for a demonstration.
-- The purpose of each main function and how the outputs are calculated.
-- One meaningful assumption, one failure case and one extension I implemented myself.
-
-Suggested GitHub topics: python, statistics, regression, bootstrap, model-selection.
-
-## Interview introduction
-
-> I created a Python companion to my model-selection research to explore how stable a selected regression model is under resampling. I used synthetic data and kept the holdout separate from model selection.
-
-Use this introduction after reviewing the code and completing a modification. Describe the repository as a new personal project inspired by earlier experience.
 
